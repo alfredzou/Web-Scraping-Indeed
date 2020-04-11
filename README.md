@@ -1,9 +1,9 @@
 # Web Scraping Indeed
 
+### Read about this project [here](https://alfredzou.github.io/portfolio/Web%20Scraping%20Indeed/)
+
 ### Web Scraper
 Web scraper to extract job title, salary, company, location, employment type and description from data related jobs on Indeed. 
-
-Read about it [here](https://alfredzou.github.io/portfolio/Web%20Scraping%20Indeed/)
 
 Web scraper in action:
 
