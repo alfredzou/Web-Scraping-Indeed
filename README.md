@@ -12,6 +12,6 @@ Web scraper in action:
 ### Predicting Role Responsibilities
 Predicting the role responsibilities between data engineer, analyst, scientist and business analyst using feature importance from logistic regression.
 
-<img src='Images/data analyst.jpg'>
+<img src='Images/data analyst.JPG'>
 
-<img src='Images/data scientist.jpg'>
+<img src='Images/data scientist.JPG'>
