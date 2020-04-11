@@ -10,7 +10,9 @@ Web scraper in action:
 <img src='Images/Web Scraping Indeed.gif'>
 
 ### Predicting Role Responsibilities
-Predicting the role responsibilities between data engineer, analyst, scientist and business analyst using feature importance from logistic regression.
+Predicting data engineer, analyst, scientist and business analyst job titles using logistic regression.
+
+By looking at the most relevant features, we can determine the role responsibilities for each job.
 
 <img src='Images/data analyst.JPG'>
 
